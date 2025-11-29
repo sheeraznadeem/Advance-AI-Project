@@ -12,5 +12,8 @@
 ## Files
 - `Complete_Code_with_Our_Proposed_System.ipynb` : Colab code notebook
 - `dataset` : Dataset files (upload manually)
-- `report.pdf` : Project report
+- `report.pdf` : Project report (IEEE Format)
+- `short report`
+- `Screen shot results`
+- `Model File name` : final_dual_system_model_path
 
